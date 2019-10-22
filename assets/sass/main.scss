@@ -481,6 +481,7 @@
 		display: inline-block;
 		position: relative;
 
+
 		&:after {
 			@include vendor('transition', 'opacity 0.25s ease-in-out');
 			background-image: url('images/overlay.png');
